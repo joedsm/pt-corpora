@@ -15,5 +15,4 @@ can be accessed an used for research purposes in the following manner:
 2. Once registered and vetted the access will be granted to _**train**_ and _**dev**_ data of the shared task which corresponds to
 the dataset described in the paper.
 
-Please note that for all experiments reported in the paper the _**train**_ and _**dev**_ data (from the SemEval Task 3) has been
-used for training and testing accordingly.
+Please note that for all experiments reported in the paper the _**train**_ and _**dev**_ data have been used for training and testing accordingly.
