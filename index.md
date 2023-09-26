@@ -1,6 +1,10 @@
+---
+title: Persuasion Techniques Corpora
+---
+
 Website describing corpora annotated with persuasion techniques
 
-The dataset described in the paper: 
+### The dataset described in the paper: 
 
 Jakub Piskorski, Nicolas Stefanovitch, Nikolaos Nikolaidis, Giovanni Da San Martino, Preslav Nakov<br/>
 _**Multilingual Multifaceted Understanding of Online News in Terms of Genre, Framing and Persuasion Techniques**_<br/>
