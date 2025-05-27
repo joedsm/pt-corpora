@@ -4,7 +4,7 @@ Website describing corpora annotated with persuasion techniques<br/>
 The dataset described in the paper: 
 
 Jakub Piskorski, Nicolas Stefanovitch, Nikolaos Nikolaidis, Giovanni Da San Martino, Preslav Nakov<br/>
-_**Multilingual Multifaceted Understanding of Online News in Terms of Genre, Framing and Persuasion Techniques**_<br/>
+_[**Multilingual Multifaceted Understanding of Online News in Terms of Genre, Framing and Persuasion Techniques**](https://aclanthology.org/2023.acl-long.169/)_<br/>
 Proceedings of the ACL 2023 Conference, Toronto, Candada, 2023
 
 can be accessed an used for research purposes in the following manner:
