@@ -5,6 +5,8 @@ title: Annotation of Persuasion Techniques on Memes
 This website provides details on the annotations used in the paper <a href="https://aclanthology.org/2025.findings-acl.922/">Annotating the Annotators: Analysis, Insights and Modelling from an Annotation Campaign on Persuasion Techniques Detection</a>.
 
 ### Data
+The paper analyses the annotations from the <a href="https://aclanthology.org/2024.semeval-1.275/">SemEval 2024 Task 4</a>. The files below include the annotations of each annotator as well as the gold label
+
 - <a href="https://drive.google.com/file/d/1r3lFdak1kujqYv8mCrojQ0MGdVGYk3NG/view?usp=sharing">Company AT1 annotations</a>
 - <a href="https://drive.google.com/file/d/1fR1GNO9bj2C_NLdyIOu8_VJl5cROlCGA/view?usp=sharing">Company AT2 annotations</a>
 
